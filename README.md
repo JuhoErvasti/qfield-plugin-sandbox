@@ -5,7 +5,7 @@ It contains a very simple structure for a development environment on Linux.
 
 ## How to use
 
-Download of QField as an AppImage and make sure plugins are supported in the version.
+Download QField as an AppImage and make sure plugins are supported in the version.
 
 Copy the .env template:
 
