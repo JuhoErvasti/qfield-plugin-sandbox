@@ -1,6 +1,6 @@
 # QField Test Plugin
 
-This is a repository for a testing and playing around QField plugin development.
+This is a repository for testing and playing around QField plugin development.
 It contains a very simple structure for a development environment on Linux.
 
 ## How to use
