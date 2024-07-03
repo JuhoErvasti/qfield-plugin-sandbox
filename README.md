@@ -33,4 +33,4 @@ Code in `src/main.qml`, test your changes with
 
 ## See also
 
-[Based on.](https://github.com/opengisch/qfield-template-plugin)
+[Based on this.](https://github.com/opengisch/qfield-template-plugin)
