@@ -1,11 +1,14 @@
-# QField Test Plugin
+# QField Plugin Sandbox
 
 This is a repository for testing and playing around QField plugin development.
 It contains a very simple structure for a development environment on Linux.
 
+The development environment is for Project Plugins as it is easier to set up
+a quick workflow for them.
+
 ## How to use
 
-Download QField as an AppImage and make sure plugins are supported in the version.
+[Download QField](https://github.com/opengisch/QField/releases/) as an AppImage and make sure plugins are supported in the version.
 
 Copy the .env template:
 
@@ -27,3 +30,7 @@ Code in `src/main.qml`, test your changes with
 ```bash
 ./build.sh
 ```
+
+## See also
+
+[Based on.](https://github.com/opengisch/qfield-template-plugin)
