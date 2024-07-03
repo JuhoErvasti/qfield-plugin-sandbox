@@ -1,6 +1,6 @@
 # QField Plugin Sandbox
 
-This is a repository for testing and playing around QField plugin development.
+This is a repository for testing and getting started with QField plugin development.
 It contains a very simple structure for a development environment on Linux.
 
 The development environment is for Project Plugins as it is easier to set up
